@@ -74,7 +74,7 @@ export default function Footer() {
               <motion.img
                 src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1754253882949_0.png"
                 alt="NTC Brasil"
-                className="h-16 w-auto mb-6 brightness-0 invert"
+                className="h-16 w-auto mb-6"
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.2 }}
               />

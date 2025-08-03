@@ -44,7 +44,7 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               Construindo um{' '}
-              <span className="text-transparent bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text">
+              <span className="text-transparent bg-gradient-to-r from-white to-gray-300 bg-clip-text">
                 futuro sustentável
               </span>
             </motion.h1>
@@ -87,7 +87,7 @@ export default function Hero() {
             >
               <motion.button
                 onClick={scrollToServices}
-                className="bg-gradient-to-r from-yellow-500 to-orange-600 text-dark px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 hover:shadow-lg transform hover:scale-105 transition-all duration-300"
+                className="bg-gradient-to-r from-gray-50 to-gray-200 text-dark px-8 py-4 rounded-lg font-semibold flex items-center justify-center gap-2 hover:shadow-lg transform hover:scale-105 transition-all duration-300"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
