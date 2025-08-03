@@ -32,7 +32,7 @@ export default function Services() {
       description:
         'O geotêxtil não tecido é uma solução versátil e eficaz para engenharia civil e projetos ambientais. Fabricado com fibras sintéticas de alta resistência, ele oferece excelente drenagem e separação de materiais em obras, promovendo a estabilidade do solo.',
       image:
-        'https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/imagem_1754254112771_2.png',
+        'https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754255013855_nl311k8are_geotextil_1.jpg',
       features: [
         'Excelente drenagem',
         'Estabilidade do solo',
